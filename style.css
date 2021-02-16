@@ -1,0 +1,42 @@
+*{
+    margin: 0;
+    padding: 0;
+
+   box-sizing: border-box;
+}
+ul{
+    list-style: none;
+}
+a{
+    text-decoration: none;
+}
+
+.header{
+
+}
+.nav-section{
+    border: 108px solid red;
+display: flex;
+justify-content: center; 
+flex-direction: row;
+background-color: black ;
+}
+.logo{
+    border: 10px solid black;
+}
+.menu{
+    border: 10px solid yellow;background: red;
+display: flex;
+justify-content: center;
+}
+
+.menu-logo{
+    
+}
+
+.menu-item{
+
+}
+.menu-link{
+
+}
